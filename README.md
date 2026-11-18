@@ -1,4 +1,7 @@
-# Oxylabs Agent Browser MCP
+# Agent Browser MCP
+
+[![Agent Browser MCP](https://github.com/oxylabs/oxylabs-agent-browser-mcp/blob/main/Github%20repositories%20banner%20v1%401x%20(1).png)](https://oxylabs.io/products/agent-browser?utm_source=github&utm_medium=referral&utm_content=web_api_waitinglist&groupid=877)
+[![](https://dcbadge.limes.pink/api/server/Pds3gBmKMH?style=for-the-badge&theme=discord)](https://discord.gg/Pds3gBmKMH) [![YouTube](https://img.shields.io/badge/YouTube-Oxylabs-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oxylabs)
 
 Welcome to the official repository overview for Oxylabs' Agent Browser MCP. This guide is a developer-focused, technical reference covering Agent Browser MCP. A self-hostable [Model Context Protocol](https://modelcontextprotocol.io) server that gives AI agents the full
 [Playwright MCP](https://github.com/microsoft/playwright-mcp) tool set running inside an
